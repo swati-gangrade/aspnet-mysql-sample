@@ -1,0 +1,6 @@
+C:\Users\shrutika.mendhe\c2c\aspnet-mysql-sample\bin\aspnet-mysql-sample.dll.config
+C:\Users\shrutika.mendhe\c2c\aspnet-mysql-sample\bin\aspnet-mysql-sample.dll
+C:\Users\shrutika.mendhe\c2c\aspnet-mysql-sample\bin\aspnet-mysql-sample.pdb
+C:\Users\shrutika.mendhe\c2c\aspnet-mysql-sample\obj\Debug\aspnet-mysql-sample.csprojResolveAssemblyReference.cache
+C:\Users\shrutika.mendhe\c2c\aspnet-mysql-sample\obj\Debug\aspnet-mysql-sample.dll
+C:\Users\shrutika.mendhe\c2c\aspnet-mysql-sample\obj\Debug\aspnet-mysql-sample.pdb
