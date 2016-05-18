@@ -11,6 +11,6 @@ Based on `mysql` pod created in OpenShift update `DefaultConnection` in `Web.con
 
 ###### NOTE: Use `mysql` pod `Cluster IP` as a `server` value in connection string and commit changes in GitHub.
 
-Connect to MySQL Database using Port Forwarding and run `CreateTable.txt` script under `DatabaseScript` folder to create table and insert dummy records.
+Connect to MySQL Database using Port Forwarding and run `CreateTable.sql` script under `DatabaseScript` folder to create table and insert dummy records.
 
 Now rebuild application to check application.
